@@ -1,4 +1,5 @@
 *Text Generation AI - Next Word Prediction in Python*
+
 This repository contains a Python project that demonstrates how to predict the next word in a given text sequence using an LSTM (Long Short-Term Memory) model. The model is trained on a sequence of words to learn the context and predict the most likely next word in the sequence.
 
 *Features

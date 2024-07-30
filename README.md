@@ -27,6 +27,8 @@ numpy,
 nltk,
 tensorflow
 
+Dataset Link : https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 Data Preparation
 
 The script tokenizes the text using a regular expression pattern and creates input-output sequences for training the model. It then converts these sequences into numerical format, suitable for training the LSTM model.

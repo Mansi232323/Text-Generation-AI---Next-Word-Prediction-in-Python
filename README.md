@@ -10,6 +10,7 @@ Builds and trains an LSTM model using Keras.
 Predicts the next word in a given text sequence.
 
 Requirements
+
 Python 3.x
 numpy
 nltk
